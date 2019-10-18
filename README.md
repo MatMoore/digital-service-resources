@@ -56,6 +56,9 @@ This list should be grouped by subject, deep linking to specific guidance and bl
 - [Don’t be afraid to code in the open: here’s how to do it securely](https://technology.blog.gov.uk/2017/09/27/dont-be-afraid-to-code-in-the-open-heres-how-to-do-it-securely/)
 - [How to open up closed code](https://technology.blog.gov.uk/2018/02/19/how-to-open-up-closed-code/)
 
+### Clear writing
+- Blog post: [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
+
 ### Communication
 - [A Guide to Agile Communication](http://www.defra.net/home/a-guide-to-agile-communication) from DEFRA
 
