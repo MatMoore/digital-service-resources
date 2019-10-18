@@ -12,17 +12,16 @@ This list should be grouped by subject, deep linking to specific guidance and bl
 - GDS [Accessible Autocomplete Widget](https://github.com/alphagov/accessible-autocomplete)
 - Platform Land [Register of Government Platforms](https://platformland.github.io/government-common-platforms/) and [Register of Government Design Systems](https://platformland.github.io/government-design-systems/)
 
-## Principles
+## Standards and Guidance
+### Principles
 - [Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
+- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice)
 
-## Guidance and Standards
 ### Service Standards
 - [Service Standard](https://www.gov.uk/service-manual/service-standard)
-- [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice)
 - [Local Government Service Standard](https://localgov.digital/service-standard)
 - [Local Digital Declaration](https://localdigital.gov.uk/declaration/)
 - [Technical and Data Standards](https://github.com/alphagov/open-standards)
-- DCMS [Data Ethics Workbook](https://www.gov.uk/government/publications/data-ethics-workbook/data-ethics-workbook)
 - Platform Land [Register of Government Digital Standards](https://platformland.github.io/government-service-standards/)
 
 ### Code Standards
@@ -36,9 +35,11 @@ This list should be grouped by subject, deep linking to specific guidance and bl
 
 ### API Standards
 - GDS [API Technical and Data Standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
+
 ### Advice
 - [Service Manual](https://www.gov.uk/service-manual)
 - [18F Delivery Guides](https://18f.gsa.gov/guides/) (US)
+- DCMS [Data Ethics Framework](https://www.gov.uk/government/collections/data-ethics-guidance)
 
 ## Career progression
 - Civil Service [Digital, Data, and Technology Capability Framework](https://www.gov.uk/government/collections/digital-data-and-technology-profession-capability-framework)
