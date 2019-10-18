@@ -58,5 +58,5 @@ This list should be grouped by subject, deep linking to specific guidance and bl
 ### Data Science
 - UK Government [Data Science Community](https://www.gov.uk/service-manual/communities/data-science-community)
 
-### Governence
+### Governance
 - [Building a register of public-facing services](https://mojdigital.blog.gov.uk/2019/06/06/building-a-register-of-public-facing-services/)
