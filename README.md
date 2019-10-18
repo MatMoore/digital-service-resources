@@ -17,7 +17,7 @@ This list should be grouped by subject, deep linking to specific guidance and bl
 
 ## Guidance and Standards
 ### Service Standards
-- Government [Service Standard](https://www.gov.uk/service-manual/service-standard)
+- [Service Standard](https://www.gov.uk/service-manual/service-standard)
 - [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice)
 - [Local Government Service Standard](https://localgov.digital/service-standard)
 - [Local Digital Declaration](https://localdigital.gov.uk/declaration/)
