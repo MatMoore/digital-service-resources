@@ -36,9 +36,10 @@ This list should be grouped by subject, deep linking to specific guidance and bl
 ### API Standards
 - GDS [API Technical and Data Standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
 
-### Advice
+### Playbooks
 - [Service Manual](https://www.gov.uk/service-manual)
 - [18F Delivery Guides](https://18f.gsa.gov/guides/) (US)
+- [The Digital Services Playbook](https://playbook.cio.gov/) (US)
 - DCMS [Data Ethics Framework](https://www.gov.uk/government/collections/data-ethics-guidance)
 
 ## Career progression
@@ -57,10 +58,15 @@ This list should be grouped by subject, deep linking to specific guidance and bl
 - [How to open up closed code](https://technology.blog.gov.uk/2018/02/19/how-to-open-up-closed-code/)
 
 ### Clear writing
-- Blog post: [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
+- [My favourite Git commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
+- [How to raise a good pull request](https://www.annashipman.co.uk/jfdi/good-pull-requests.html)
+- [Conducting effective code reviews](https://gds-tech-learning-pathway.cloudapps.digital/resources/other/code-reviews.html#conducting-effective-code-reviews)
 
 ### Communication
 - [A Guide to Agile Communication](http://www.defra.net/home/a-guide-to-agile-communication) from DEFRA
+
+### Site reliability engineering
+- [Dickerson’s Hierarchy of Service Reliability](https://www.david-merrick.com/2017/06/26/dickerson-s-hierarchy-of-service-reliability/) (what to prioritise when everything needs improving)
 
 ### Accessibility
 - [WCAG Primer](https://alphagov.github.io/wcag-primer/)
