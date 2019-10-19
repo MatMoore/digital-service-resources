@@ -19,8 +19,8 @@ This list is mostly focused on the UK but stuff from other countries will be add
 
 ### Service Standards
 - [Service Standard](https://www.gov.uk/service-manual/service-standard)
-- [Local Government Service Standard](https://localgov.digital/service-standard)
 - [Local Digital Declaration](https://localdigital.gov.uk/declaration/)
+- [Local Government Service Standard](https://localgov.digital/service-standard)
 - [Technical and Data Standards](https://github.com/alphagov/open-standards)
 - Platform Land [Register of Government Digital Standards](https://platformland.github.io/government-service-standards/)
 
