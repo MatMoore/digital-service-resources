@@ -1,9 +1,7 @@
 # Digital Service Resources
-A big list of resources for digital teams working in the public sector (with a UK focus).
+A big list of resources to help digital teams working in the public sector build better services.
 
-Criteria for inclusion:
-- Authored by people working in/for public sector organisations
-- Helps teams to build better services
+This list is mostly focused on the UK but stuff from other countries will be added too. It should not contain content from people/organisations not affiliated with public sector organisations.
 
 ## Components
 - [GOV.UK design system](https://design-system.service.gov.uk/) and [community resources](https://github.com/tijmenb/design-system-community-resources)
