@@ -59,6 +59,7 @@ This list is mostly focused on the UK but stuff from other countries will be add
 
 ### Coding in the open
 - [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
+- [How to work in the open in government](http://www.hollidazed.co.uk/2019/10/30/how-to-work-in-the-open-in-government/)
 - [Don’t be afraid to code in the open: here’s how to do it securely](https://technology.blog.gov.uk/2017/09/27/dont-be-afraid-to-code-in-the-open-heres-how-to-do-it-securely/)
 - [How to open up closed code](https://technology.blog.gov.uk/2018/02/19/how-to-open-up-closed-code/)
 
