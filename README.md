@@ -75,3 +75,6 @@ This list is mostly focused on the UK but stuff from other countries will be add
 
 ### Site reliability engineering
 - [Dickerson’s Hierarchy of Service Reliability](https://www.david-merrick.com/2017/06/26/dickerson-s-hierarchy-of-service-reliability/) (what to prioritise when everything needs improving)
+
+### Team building
+- [Grumpy old man agile](https://productforthepeople.xyz/grumpy-old-person-agile-d2465d875ac1)
