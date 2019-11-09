@@ -39,6 +39,7 @@ This list is mostly focused on the UK but stuff from other countries will be add
 
 ### Playbooks
 - [Service Manual](https://www.gov.uk/service-manual)
+- [NHS Service Manual](https://beta.nhs.uk/service-manual/)
 - [18F Delivery Guides](https://18f.gsa.gov/guides/) (US)
 - [The Digital Services Playbook](https://playbook.cio.gov/) (US)
 - DCMS [Data Ethics Framework](https://www.gov.uk/government/collections/data-ethics-guidance)
