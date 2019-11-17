@@ -79,3 +79,4 @@ This list is mostly focused on the UK but stuff from other countries will be add
 
 ### Team building
 - [Grumpy old man agile](https://productforthepeople.xyz/grumpy-old-person-agile-d2465d875ac1)
+- [Good questions to kick off a discovery](https://www.dxw.com/2019/06/good-questions-to-kick-off-a-discovery/)
