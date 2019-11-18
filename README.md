@@ -32,6 +32,7 @@ This list is mostly focused on the UK but stuff from other countries will be add
 
 ### Security Standards
 - [MOJ Security Guidance](https://ministryofjustice.github.io/security-guidance/#moj-security--guidance)
+- [NCSS Security Architecture Antipatterns](https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns)
 
 ### API Standards
 - GDS [API Technical and Data Standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
