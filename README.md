@@ -44,7 +44,7 @@ This list is mostly focused on the UK but stuff from other countries will be add
 - [18F Delivery Guides](https://18f.gsa.gov/guides/) (US)
 - [The Digital Services Playbook](https://playbook.cio.gov/) (US)
 - DCMS [Data Ethics Framework](https://www.gov.uk/government/collections/data-ethics-guidance)
-- Ash Center for Democratic Governance and Innovation [Playbook: Government as Platform](https://ash.harvard.edu/files/ash/files/293091_hvd_ash_gvmnt_as_platform_v2.pdf)
+- [Playbook: Government as Platform](https://ash.harvard.edu/files/ash/files/293091_hvd_ash_gvmnt_as_platform_v2.pdf) (Ash Center for Democratic Governance and Innovation)
 
 ## Curated resources
 - [The Digital Government Atlas: The World's Best Tools and Resources](https://apolitical.co/solution_article/the-digital-government-atlas-the-worlds-best-tools-and-resources/)
