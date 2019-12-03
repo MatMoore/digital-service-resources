@@ -44,6 +44,7 @@ This list is mostly focused on the UK but stuff from other countries will be add
 - [18F Delivery Guides](https://18f.gsa.gov/guides/) (US)
 - [The Digital Services Playbook](https://playbook.cio.gov/) (US)
 - DCMS [Data Ethics Framework](https://www.gov.uk/government/collections/data-ethics-guidance)
+- Ash Center for Democratic Governance and Innovation [Playbook: Government as Platform](https://ash.harvard.edu/files/ash/files/293091_hvd_ash_gvmnt_as_platform_v2.pdf)
 
 ## Curated resources
 - [The Digital Government Atlas: The World's Best Tools and Resources](https://apolitical.co/solution_article/the-digital-government-atlas-the-worlds-best-tools-and-resources/)
@@ -74,6 +75,7 @@ This list is mostly focused on the UK but stuff from other countries will be add
 
 ### Governance
 - [Building a register of public-facing services](https://mojdigital.blog.gov.uk/2019/06/06/building-a-register-of-public-facing-services/)
+- [Long-term teams, not sudden handoffs](https://18f.gsa.gov/2019/12/03/long-term-teams/)
 
 ### Site reliability engineering
 - [Dickerson’s Hierarchy of Service Reliability](https://www.david-merrick.com/2017/06/26/dickerson-s-hierarchy-of-service-reliability/) (what to prioritise when everything needs improving)
