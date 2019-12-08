@@ -16,6 +16,7 @@ This list is mostly focused on the UK but stuff from other countries will be add
 ### Principles
 - [Government Design Principles](https://www.gov.uk/guidance/government-design-principles)
 - [Technology Code of Practice](https://www.gov.uk/government/publications/technology-code-of-practice/technology-code-of-practice)
+- [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture/)
 
 ### Service Standards
 - [Service Standard](https://www.gov.uk/service-manual/service-standard)
