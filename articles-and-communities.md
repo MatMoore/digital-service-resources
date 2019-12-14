@@ -11,7 +11,7 @@
 ## Communications
 - [A Guide to Agile Communication](http://www.defra.net/home/a-guide-to-agile-communication) from DEFRA
 
-### Data Science
+## Data Science
 - [Data Science Community](https://www.gov.uk/service-manual/communities/data-science-community)
 - [Data Science Accelerator Programme](https://www.gov.uk/government/publications/data-science-accelerator-programme/introduction-to-the-data-science-accelerator)
 
@@ -23,7 +23,7 @@
 - [Opening up the GOV.UK Design System for contributions](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/)
 - [Government community on GitHub](https://github.com/government/welcome)
 
-### Product management/governance
+## Product management/governance
 - [Building a register of public-facing services](https://mojdigital.blog.gov.uk/2019/06/06/building-a-register-of-public-facing-services/)
 - [Long-term teams, not sudden handoffs](https://18f.gsa.gov/2019/12/03/long-term-teams/)
 
