@@ -2,6 +2,7 @@
 # Articles and communities of practice A-Z
 ## Agile development
 - [Grumpy old man agile](https://productforthepeople.xyz/grumpy-old-person-agile-d2465d875ac1)
+- [You may not be as agile as you think you are](https://18f.gsa.gov/2019/05/29/you-might-not-be-as-agile-as-you-think-you-are/)
 
 ## Accessibility
 - [WCAG Primer](https://alphagov.github.io/wcag-primer/)
@@ -14,6 +15,9 @@
 ## Data Science
 - [Data Science Community](https://www.gov.uk/service-manual/communities/data-science-community)
 - [Data Science Accelerator Programme](https://www.gov.uk/government/publications/data-science-accelerator-programme/introduction-to-the-data-science-accelerator)
+
+## Open data
+- [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)
 
 ## Open source/Coding in the open
 - [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
