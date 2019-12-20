@@ -42,3 +42,4 @@
 
 ## User centred design
 - [Good questions to kick off a discovery](https://www.dxw.com/2019/06/good-questions-to-kick-off-a-discovery/)
+- [Lean lab — testing tech without touching code](https://medium.com/@rachel.beaumont/lean-lab-testing-tech-without-touching-code-5a760b648d3c)
