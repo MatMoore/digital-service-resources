@@ -8,6 +8,7 @@
 - [WCAG Primer](https://alphagov.github.io/wcag-primer/)
 - [Accessibility Community](https://www.gov.uk/service-manual/communities/accessibility-community#community-resources)
 - [Doing a basic accessibility check if you cannot do a detailed one](https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one)
+- [Four Ways Design Systems Can Promote Accessibility – and What They Can’t Do](https://24ways.org/2019/four-ways-design-systems-can-promote-accessibility/)
 
 ## Communications
 - [A Guide to Agile Communication](http://www.defra.net/home/a-guide-to-agile-communication) from DEFRA
