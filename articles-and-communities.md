@@ -3,6 +3,7 @@
 ## Agile development
 - [Grumpy old man agile](https://productforthepeople.xyz/grumpy-old-person-agile-d2465d875ac1)
 - [You may not be as agile as you think you are](https://18f.gsa.gov/2019/05/29/you-might-not-be-as-agile-as-you-think-you-are/)
+- [Detecting agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 
 ## Accessibility
 - [WCAG Primer](https://alphagov.github.io/wcag-primer/)
