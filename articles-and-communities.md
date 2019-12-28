@@ -13,12 +13,11 @@
 ## Communications
 - [A Guide to Agile Communication](http://www.defra.net/home/a-guide-to-agile-communication) from DEFRA
 
-## Data Science
+## Data
+- [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)
+- [ETL for America](https://daguar.github.io/2014/03/17/etl-for-america/)
 - [Data Science Community](https://www.gov.uk/service-manual/communities/data-science-community)
 - [Data Science Accelerator Programme](https://www.gov.uk/government/publications/data-science-accelerator-programme/introduction-to-the-data-science-accelerator)
-
-## Open data
-- [Making GOV.UK more than a website](https://gds.blog.gov.uk/2019/12/19/making-gov-uk-more-than-a-website/)
 
 ## Open source/Coding in the open
 - [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
@@ -28,9 +27,13 @@
 - [Opening up the GOV.UK Design System for contributions](https://designnotes.blog.gov.uk/2018/09/26/opening-up-the-gov-uk-design-system-for-contributions/)
 - [Government community on GitHub](https://github.com/government/welcome)
 
-## Product management/governance
-- [Building a register of public-facing services](https://mojdigital.blog.gov.uk/2019/06/06/building-a-register-of-public-facing-services/)
+## Organisational change
 - [Long-term teams, not sudden handoffs](https://18f.gsa.gov/2019/12/03/long-term-teams/)
+- [Building a register of public-facing services](https://mojdigital.blog.gov.uk/2019/06/06/building-a-register-of-public-facing-services/)
+- [If you push beyond digital, what happens next?](https://wearecitizensadvice.org.uk/if-you-push-beyond-digital-what-happens-next-f31a763f6310)
+- [Technology is not the solution (nor is it irrelevant) — it's a lever](https://daguar.github.io/2019/08/06/technology-is-not-the-solution-nor-is-it-irrelevant-its-a-lever/)
+- [Most of government is mostly service design most of the time. Discuss.](https://blog.mattedgar.com/2015/05/12/most-of-government-is-mostly-service-design-most-of-the-time-discuss/)
+- [When to use Commercial Off-the-Shelf (COTS) technology](https://18f.gsa.gov/2019/03/26/when-to-use-COTS/)
 
 ## Site reliability engineering
 - [Dickerson’s Hierarchy of Service Reliability](https://www.david-merrick.com/2017/06/26/dickerson-s-hierarchy-of-service-reliability/) (what to prioritise when everything needs improving)
