@@ -63,6 +63,7 @@ approaches that service teams can reuse
 - [The Digital Services Playbook](https://playbook.cio.gov/) (US)
 - DCMS [Data Ethics Framework](https://www.gov.uk/government/collections/data-ethics-guidance)
 - [Playbook: Government as Platform](https://ash.harvard.edu/files/ash/files/293091_hvd_ash_gvmnt_as_platform_v2.pdf) (Ash Center for Democratic Governance and Innovation)
+- [dxw Playbook](http://playbook.dxw.com)
 
 ## Articles and communities of practice
 See [Articles and communities of practice A-Z](./articles-and-communities.md).
